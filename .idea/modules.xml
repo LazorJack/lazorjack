@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fantasy-football-rest/fantasy-football.iml" filepath="$PROJECT_DIR$/fantasy-football-rest/fantasy-football.iml" />
+      <module fileurl="file://$PROJECT_DIR$/football-domain/football-domain.iml" filepath="$PROJECT_DIR$/football-domain/football-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lazorjack.iml" filepath="$PROJECT_DIR$/lazorjack.iml" />
+    </modules>
+  </component>
+</project>

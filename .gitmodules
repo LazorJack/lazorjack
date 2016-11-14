@@ -1,6 +1,6 @@
 [submodule "football-domain"]
 	path = football-domain
-	url = ./football-domain/
+	url = https://github.com/LazorJack/football-domain.git
 [submodule "fantasy-football-rest"]
 	path = fantasy-football-rest
-	url = ./fantasy-football-rest/
+	url = https://github.com/LazorJack/fantasy-football-rest.git
